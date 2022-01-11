@@ -1,6 +1,6 @@
 <?php
 
-include 'backend/index.php';
+include 'backend/dashboard.php';
 
 
 ?>
